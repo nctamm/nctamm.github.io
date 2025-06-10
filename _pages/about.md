@@ -19,6 +19,8 @@ redirect_from:
 
 I am a Data Engineering student at Ho Chi Minh City University of Technology and Education, with a strong background in Computer Vision and AI for Autonomous Systems. My research experience includes optimizing deep learning architectures for efficient neural networks and developing intelligent vision-based systems for resource-constrained edge devices. While my primary focus has been on AI algorithms, I am also deeply interested in hardware-level acceleration and low-level software optimization for real-time and high-performance computing.
 
+**I am currently looking for Master's or PhD (combined course) scholarship opportunities starting in Spring 2026.**
+
 
 Email: [nguyentamm2001@gmail.com](mailto:nguyentamm2001@gmail.com)
 
