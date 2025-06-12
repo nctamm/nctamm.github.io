@@ -40,7 +40,7 @@ Projects: [GitHub](https://github.com/nctamm)
 # 📝 Research and Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/autonomous_vehicle_hcmute.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="text-align: justify;">
 
 [**Autonomous Vehicle in ISLab HCMUTE**](/projects/autonomous-vehicle/)
 
@@ -52,27 +52,32 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/digital_car_racing.jpeg' alt="Digital Car Racing" width="100%">
+      <img src='images/digital_car_racing.jpeg' alt="Digital Car Simulation" width="100%">
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1" style="text-align: justify;">
 
-  [**Digital Car Racing Simulation**](/projects/digital-car-racing)
+  <!-- [**Digital Car Simulation**](/projects/digital-car-simulation) -->
+  <span style="color: #224B8D; font-weight: bold;">Digital Car Simulation</span>
 
-  A simulated racing environment for testing real-time AI algorithms including map construction, semantic segmentation for scene understanding, obstacle detection using vision techniques, and low-level vehicle control via PID controllers.  
-  The system enables experimentation with AI-based autonomous driving strategies in dynamic racing conditions.
+  A customizable simulation environment for autonomous driving research, developed using Unity, Unreal Engine, or Carla.  
+  The platform supports synthetic data generation, semantic segmentation, object detection, and pedestrian behavior modeling using computer vision techniques.  
+  It also enables real-time testing of modular control strategies and reinforcement learning algorithms for autonomous vehicle navigation in dynamic environments.
+
+  <em>This project is under active development. More details will be updated soon.</em>
 
   </div>
 </div>
 
 
+
 # 📝 Publications
 
 - <b style="color: #007acc; font-weight: bold;">
-    Pedestrian Crossing intention
+    Anonymized
   </b>  
-  <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le (In preparation)   [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
+  <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le (In preparation – SCI journal) [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
 
 - <b style="color: #007acc; font-weight: bold;">
     Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios

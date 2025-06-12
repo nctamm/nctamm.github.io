@@ -5,7 +5,7 @@ author_profile: true
 --- -->
 
 ---
-permalink: /
+permalink: /projects/autonomous-vehicle
 title: "Autonomous Vehicle in ISLab HCMUTE"
 excerpt: ""
 author_profile: true
