@@ -75,9 +75,14 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 # 📝 Publications
 
 - <b style="color: #007acc; font-weight: bold;">
-    Anonymized
+  (In preparation) [SCI journal] Anonymized
   </b>  
-  <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le (In preparation – SCI journal) [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
+  <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
+
+- <b style="color: #007acc; font-weight: bold;">
+   (In preparation) [ICMT 2025] Anonymized
+  </b>  
+  Van-Hoang-Anh Phan, <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le [<a href="#" target="_blank">PDF</a>] | [<a href="#" target="_blank">Code</a>]
 
 - <b style="color: #007acc; font-weight: bold;">
     Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios
