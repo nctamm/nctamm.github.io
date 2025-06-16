@@ -61,7 +61,7 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
   <!-- [**Digital Car Simulation**](/projects/digital-car-simulation) -->
   <span style="color: #224B8D; font-weight: bold;">Digital Car Simulation</span>
 
-  A customizable simulation environment for autonomous driving research, developed using Unity, Unreal Engine, or Carla.  
+  A customizable simulation environment for autonomous driving research, developed using Unity, Unreal Engine and Carla.  
   The platform supports synthetic data generation, semantic segmentation, object detection, and pedestrian behavior modeling using computer vision techniques.  
   It also enables real-time testing of modular control strategies and reinforcement learning algorithms for autonomous vehicle navigation in dynamic environments.
 
