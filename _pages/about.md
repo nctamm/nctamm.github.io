@@ -34,7 +34,7 @@ Projects: [GitHub](https://github.com/nctamm)
 # 📖 Education
 - *2020.09 - 2025.03*, BEng in Data Engineering, HCMC University of Technology and Education (HCMUTE), Vietnam
   
-  **Background in** computer science, including algorithms, data structures, and techniques for optimizing real-time computational performance, high performance computing.
+  **Background in** computer science, including algorithms, data structures, computer vision and techniques for optimizing real-time computational performance, high performance computing.
 
 
 # 📝 Research and Projects 
@@ -73,6 +73,7 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 
 
 # 📝 Publications
+<div style="font-size: 95%; padding-left: 1.5em;"><strong><sup>†</sup></strong>: Co-first Author</div>
 
 - <b style="color: #007acc; font-weight: bold;">
   (In preparation) [SCI journal] Anonymized
@@ -82,7 +83,7 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 - <b style="color: #007acc; font-weight: bold;">
     (In preparation) [ICMT 2025] Anonymized
   </b>  
-  Van-Hoang-Anh Phan, <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le  
+  Van-Hoang-Anh Phan<strong><sup>†</sup></strong>, <strong>Chi-Tam Nguyen<sup>†</sup></strong>, Minh-Thien Duong, My-Ha Le  
   <em>2025 28th International Conference on Mechatronics Technology (ICMT 2025)</em>
 
 - <b style="color: #007acc; font-weight: bold;">
