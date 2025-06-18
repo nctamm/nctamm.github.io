@@ -1,7 +1,6 @@
 # nctamm.github.io
 
 This is the personal website of **NCTamm**
----
 
 ## Overview
 
