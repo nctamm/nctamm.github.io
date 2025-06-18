@@ -1,7 +1,6 @@
 # nctamm.github.io
 
-This is the personal academic website of **NCTamm**, built based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), a modern and elegant template for academic personal pages.
-
+This is the personal website of **NCTamm**
 ---
 
 ## Overview
