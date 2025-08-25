@@ -32,7 +32,7 @@ Profiles:
 Projects: [GitHub](https://github.com/nctamm)
 
 # 📖 Education
-- *2020.09 - 2025.03*, BEng in Data Engineering, HCMC University of Technology and Education (HCMUTE), Vietnam
+- *2020 - 2025*, BEng in Data Engineering, HCMC University of Technology and Education (HCMUTE), Vietnam
   
   **Background in** computer science, including algorithms, data structures, computer vision and techniques for optimizing real-time computational performance, high performance computing.
 
