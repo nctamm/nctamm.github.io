@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Data Engineering student at Ho Chi Minh City University of Technology and Education, with a strong background in Computer Vision and AI for Autonomous Systems. My research experience includes optimizing deep learning architectures for efficient neural networks and developing intelligent vision-based systems for resource-constrained edge devices. While my primary focus has been on AI algorithms, I am also deeply interested in hardware-level acceleration and low-level software optimization for real-time and high-performance computing.
 
-**I am currently looking for Master's or PhD (combined course) scholarship opportunities starting in Spring 2026.**
+**I am currently looking for Master's or PhD (combined course) scholarship opportunities starting in the Fall 2026 semester.**
 
 
 Email: [nguyentamm2001@gmail.com](mailto:nguyentamm2001@gmail.com)
@@ -76,21 +76,15 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 <div style="font-size: 95%; padding-left: 1.5em;"><strong><sup>†</sup></strong>: Co-first Author</div>
 
 - <b style="color: #007acc; font-weight: bold;">
-  (In preparation) [SCI journal] Anonymized
+  (In preparation) [SCIE journal] Anonymized
   </b>  
   <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
 
-- <b style="color: #007acc; font-weight: bold;">
-    (In preparation) [ICMT 2025] Anonymized
-  </b>  
-  Van-Hoang-Anh Phan<strong><sup>†</sup></strong>, <strong>Chi-Tam Nguyen<sup>†</sup></strong>, Minh-Thien Duong, My-Ha Le  
-  <em>2025 28th International Conference on Mechatronics Technology (ICMT 2025)</em>
-
-- <b style="color: #007acc; font-weight: bold;">
+- <a href="https://ieeexplore.ieee.org/abstract/document/11142430" style="color: #007acc; font-weight: bold;" target="_blank">
     Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios
-  </b>  
-  Van-Hoang-Anh Phan, <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, Thanh-Danh Phan, Van-Binh Nguyen, My-Ha Le  
-  <em>2025 17th International Conference on Human System Interactions (HSI)</em> (Accepted)
+  </a>  
+  Van-Hoang-Anh Phan, Chi-Tam Nguyen, Doan-Trung Au, Thanh-Danh Phan, Minh-Thien Duong, My-Ha Le  
+  <em>2025 17th International Conference on Human System Interactions (HSI)</em>, July 2025, Rank C [<a href="https://arxiv.org/abs/2507.12449" target="_blank">PDF</a>]
 
 - <a href="https://ieeexplore.ieee.org/abstract/document/10675153" style="color: #007acc; font-weight: bold;" target="_blank">
     Forewarning Crossing Intention of Pedestrians Using Multimodal Deep Learning Approach
