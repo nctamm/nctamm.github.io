@@ -42,7 +42,7 @@ redirect_from:
     <h1>Autonomous Car Simulation in Unity</h1>
 
     <p>
-      Designing an autonomous car simulation in Unity — implementing traffic sign detection, lane detection using deep learning, and a PID controller for vehicle control.
+      Designing an autonomous car simulation in Unity — implementing traffic sign detection, road segmentation using deep learning, and a PID controller for vehicle control.
       <em>More details will be updated soon.</em>
     </p>
   </div>
