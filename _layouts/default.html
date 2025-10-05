@@ -29,5 +29,27 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- FlagCounter tracker -->
+    <img 
+      id="flagcounter"
+      src="https://s01.flagcounter.com/count2/twIt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" 
+      alt="Flag Counter" 
+      style="display:none;"
+    >
+
+    <script>
+      // Nếu truy cập #visitors → hiển thị bộ đếm
+      if (window.location.hash === "#visitors") {
+        document.getElementById("flagcounter").style.display = "block";
+        document.getElementById("flagcounter").style.margin = "20px auto";
+        document.getElementById("flagcounter").style.display = "block";
+      } else {
+        // Nếu không ở #visitors → tải ngầm để FlagCounter vẫn đếm
+        const img = new Image();
+        img.src = "https://s01.flagcounter.com/count2/twIt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/";
+      }
+    </script>
+
+
   </body>
 </html>
