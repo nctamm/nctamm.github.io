@@ -69,7 +69,7 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 <div style="font-size: 95%; padding-left: 1.5em;"><strong><sup>†</sup></strong>: Co-first Author</div>
 
 - <b style="color: #007acc; font-weight: bold;">
-  (In preparation) [SCIE journal] Anonymized
+  (Under review) [SCIE journal] Anonymized
   </b>  
   <strong>Chi-Tam Nguyen</strong>, Minh-Thien Duong, My-Ha Le [<a href="#" target="_blank">PDF</a>] | [<a href="https://github.com/nctamm/ReaCIP" target="_blank">Code</a>]
 
