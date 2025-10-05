@@ -49,17 +49,11 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/digital_car_racing.jpeg' alt="Digital Car Simulation" width="100%">
-    </div>
-  </div>
 
-  <div class='paper-box-text' markdown="1" style="text-align: justify;">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/simulation.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="text-align: justify;">
 
-  <!-- [**Digital Car Simulation**](/projects/digital-car-simulation) -->
-  <span style="color: #224B8D; font-weight: bold;">Digital Car Simulation</span>
+[**Digital Car Simulation**](/projects/simulation/)
 
   A customizable simulation environment for autonomous driving research, developed using Unity, Unreal Engine and Carla.  
   The platform supports synthetic data generation, semantic segmentation, object detection, and pedestrian behavior modeling using computer vision techniques.  
@@ -67,9 +61,8 @@ An autonomous vehicle operating on the campus of Ho Chi Minh City University of 
 
   <em>This project is under active development. More details will be updated soon.</em>
 
-  </div>
 </div>
-
+</div>
 
 
 # 📝 Publications
