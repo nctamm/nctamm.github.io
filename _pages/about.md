@@ -18,11 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Data Engineering graduate from Ho Chi Minh City University of Technology and Education (HCMUTE), with formal training in computer science algorithms, large-scale data processing, and data-driven model training. I also have a strong background in computer vision and AI for autonomous systems.
-
-My research experience includes optimizing deep learning architectures for efficient neural networks, as well as developing intelligent vision-based systems for edge devices.
-
-While my primary focus has been on AI algorithms, I am also highly interested in AI hardware accelerators and low-level software optimization, including systems, kernel-level optimization, and compiler design, for real-time and high-performance embedded AI systems.
+I am a Data Engineering graduate from Ho Chi Minh City University of Technology and Education (HCMUTE), with formal training in computer science algorithms, large-scale data processing, and data-driven model training, along with a strong background in computer vision and AI for autonomous systems. My research experience includes optimizing deep learning architectures for efficient neural networks and developing intelligent vision-based systems for edge devices. While my primary focus has been on AI algorithms, I am also highly interested in AI hardware accelerators and low-level software optimization, including systems, kernel-level optimization, and compiler design, for real-time and high-performance embedded AI systems.
 
 **I am currently looking for Master's or PhD (combined course) scholarship opportunities starting in the Fall 2026 semester.**
 
